@@ -1,0 +1,82 @@
+.add-base {
+    margin: 10px;
+}
+
+.form-base {
+    border: solid 1px #8c8c8c;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px;
+}
+
+.form-header {
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+    background-color: #00b9ad;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.input-base {
+    width: 100%;
+    height: 2.5rem;
+    background-color: #edf3f8;
+    border-color: #ececec;
+    border-style: double;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    outline: none;
+}
+
+.input-base:focus-visible {
+    width: 100%;
+    height: 2.5rem;
+    background-color: transparent;
+    border-color: #8c8c8c;
+    border-style: double;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    outline: none;
+}
+
+.adr-input {
+    width: 100%;
+    height: 70px;
+    background-color: #edf3f8;
+    border-color: #ececec;
+    border-style: double;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    outline: none;
+}
+
+.adr-input:focus-visible {
+    width: 100%;
+    height: 70px;
+    background-color: transparent;
+    border-color: #8c8c8c;
+    border-style: double;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    outline: none;
+}
+
+.btn-base {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.submit-btn {
+    background-color: #00b9ad;
+}
+
+.submit-btn:hover {
+    background-color: #00998f;
+}
+
+.validation {
+    color: #ff0000;
+}

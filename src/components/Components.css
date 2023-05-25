@@ -1,0 +1,23 @@
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.color-nav {
+    background-color: #00b9ad;
+}
+
+.home-icon {
+    margin-left: 5px;
+}
+
+.footer-base {
+    background-color: #e6e6e6;
+}
+
+.footer-head {
+    justify-content: center;
+    font-size: x-large;
+    font-weight: 500;
+}

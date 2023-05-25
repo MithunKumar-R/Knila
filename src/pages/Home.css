@@ -1,0 +1,22 @@
+.home-base {
+    padding: 10px;
+}
+
+.edit-btn {
+    background-color: #00b9ad !important;
+}
+
+.edit-btn:hover {
+    background-color: #00998f !important;
+}
+
+.sort-icon {
+    color: #00998f;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.table-header {
+    display: flex;
+    align-items: center;
+}
