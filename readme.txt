@@ -42,6 +42,7 @@ i.e {
 Conclusion:
 
 - for testing purpose there are 4 static values added in redux store's inital state so that there will be some data.
+- as i have not included node modules in the repo pleae use npm install in the terminal before starting the application.
 
 Thanks and Regards,
 Mithun Kumar. R
